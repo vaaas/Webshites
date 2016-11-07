@@ -8,9 +8,9 @@ In the year of our lord, the $CURRENT_YEAR, websites rely on ad revenue to survi
 - Clickbait garbage
 - Deceptive practices
 
-The memetic nature of clickbait and [Gell-Mann amnesia](https://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you) means that oftentimes readers end up clicking on websites and giving these websites what they need; i.e. ad revenue and data mining. This becomes even worth due to URL shorteners and redirection services which mask the true domain of a website.
+The memetic nature of clickbait and [Gell-Mann amnesia](https://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you) means that oftentimes readers end up clicking on websites and giving these websites what they need; i.e. ad revenue and data mining. This becomes even worse due to URL shorteners and redirection services which mask the true domain of a website.
 
-These memes are considered harmful. They spread disinformation, hatred, and destroy personal and communal relationships. As of 2016, this has led in the degeneration of political, gender, and racial relations to unprecedented levels. Violence and justification for that violence is not rare.
+These memes are considered harmful. They spread disinformation, hatred, and destroy personal and communal relationships. As of 2016, this has led in the degeneration of political, gender, and racial relations to unprecedented levels. Violence and justification for that violence are not rare.
 
 Thankfully, it is the year or our lord, the $CURRENT_YEAR, and [uBlock Origin](https://github.com/gorhill/uBlock) reals. This is a personal list to assist in avoiding these websites, and guard my brain from dangerous memes.
 
