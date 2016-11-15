@@ -55,6 +55,7 @@ Listed alphabetically.
 - messenger.com: facebook
 - mic.com: racism, sexism, disinformation, clickbait
 - msnbc.com: racism, sexism, disinformation, clickbait
+- msn.com: disinformation, clickbait
 - mtv.com: racism, sexism, disinformation, clickbait, genocide, violence
 - nytimes.com: disinformation
 - newstatesman.com: disinformation, sexism, violence
@@ -71,7 +72,7 @@ Listed alphabetically.
 - thedailybeast.com: disinformation
 - theguardian.com: racism, sexism, disinformation, clickbait, violence, genocide
 - themarysue.com: racism, sexism, disinformation, clickbait
-- thesun.com: racism, disinformation, clickbait, by far the worst UK publication
+- thesun.co.uk: racism, disinformation, clickbait, by far the worst UK publication
 - theverge.com: disinformation, idiots pretend to write about tech
 - tumblr.com: I don't think there's enough words to describe how awful this is
 - twitter.com: like tumblr but in 140 characters

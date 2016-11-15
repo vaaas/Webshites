@@ -33,6 +33,7 @@ medium.com
 messenger.com
 mic.com
 msnbc.com
+msn.com
 mtv.com
 nytimes.com
 newstatesman.com
@@ -49,7 +50,7 @@ splcenter.org
 thedailybeast.com
 theguardian.com
 themarysue.com
-thesun.com
+thesun.co.uk
 theverge.com
 tumblr.com
 twitter.com
