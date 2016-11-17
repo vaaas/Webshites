@@ -18,10 +18,10 @@ Thankfully, it is the year or our lord, the $CURRENT_YEAR, and [uBlock Origin](h
 
 ## Hall of shame
 
-Listed alphabetically.
+No particular order.
 
 - alternet.org: racism, sexism, disinformation
-- arstechnica.com: clickbait, sexism
+- arstechnica.com: clickbait, sexism, anti-consumer
 - backchannel.com: see wired
 - bbc.co.uk: racism, sexism, genocide, eugenics, clickbait, disinformation
 - breitbart.com: racism, clickbait
@@ -39,7 +39,7 @@ Listed alphabetically.
 - feministing.com: sexism, racism, disinformation, clickbait
 - forbes.com: racism, disinformation, clickbait
 - fusion.net: sexism, anti-science, laughs at sterile men
-- gawker.com: racism, sexism, disinformation, clickbait, violence, illegal
+- gawker.com: racism, sexism, disinformation, clickbait, violence, breaking the law, anti-consumer
 - gizmodo.com: gakwer brand
 - heartiste.wordpress.com: sexism, disinformation, violence
 - huffingtonpost.com: racism, sexism, disinformation, clickbait, violence
@@ -85,3 +85,16 @@ Listed alphabetically.
 - wired.com: disinformation, anti-consumer
 - xojane.com: racism, sexism, clickbait, disinformation
 - ycombinator.com: disinformation, idiots pretend to know about software
+- thoughtcatalog.com: disinformation, sexism, clickbait
+- reallifemag.com: sexism, clickbait, disinformation
+- rockpapershotgun: racism, sexism, disinformation, clickbait, anti-consumer
+- gamespot.com: sexism, disinformation, clickbait, anti-consumer
+- gamasutra.com: sexism, disinformation, clickbait, anti-consumer
+- pcgamer.com: sexism, disinformation, clickbait, anti-consumer
+- ausgamers.com: sexism, disinformation, clickbait, anti-consumer
+- gameplanet.com: sexism, disinformation, clickbait, anti-consumer
+- neogaf.com: sexism, racism, disinformation, clickbait, anti-science, anti-consumer
+- freethoughtblogs.com: racism, sexism, disinformation, clickbait, anti-science
+- conservapedia.com: racism, sexism, disinformation, clickbait, anti-science
+- creationmuseum.org: anti-science, disinformation
+- answersingenesis.org: anti-science, disinformation
