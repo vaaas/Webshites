@@ -99,3 +99,6 @@ No particular order.
 - creationmuseum.org: anti-science, disinformation
 - answersingenesis.org: anti-science, disinformation
 - therebel.media: disinformation, clickbait, racism, sexism
+- wsj.com: disinformation, clickbait, anti-science
+- metro.co.uk: disinformation, clickbait
+- washingtonpost.com: disinformation, clickbait, racism, sexism, anti-science
