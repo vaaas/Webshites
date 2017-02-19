@@ -81,3 +81,4 @@ therebel.media
 wsj.com
 metro.co.uk
 washingtonpost.com
+theintercept.com

@@ -102,3 +102,4 @@ No particular order.
 - wsj.com: disinformation, clickbait, anti-science
 - metro.co.uk: disinformation, clickbait
 - washingtonpost.com: disinformation, clickbait, racism, sexism, anti-science
+- theintercept.com: disinformation, clickbait, racism, sexism, anti-science
