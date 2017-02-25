@@ -108,3 +108,4 @@ No particular order.
 - cosmopolitan.com: disinformation, clickbait, racism, sexism
 - ap.org: disinformation, clickbait, racism, sexism
 - avclub.com: disinformation, clickbait
+- ft.com: disinformation, clickbait
