@@ -82,3 +82,8 @@ wsj.com
 metro.co.uk
 washingtonpost.com
 theintercept.com
+variety.com
+mashable.com
+cosmopolitan.com
+ap.org
+avclub.com

@@ -103,3 +103,8 @@ No particular order.
 - metro.co.uk: disinformation, clickbait
 - washingtonpost.com: disinformation, clickbait, racism, sexism, anti-science
 - theintercept.com: disinformation, clickbait, racism, sexism, anti-science
+- variety.com: disinformation, clickbait
+- mashable.com: disinformation, clickbait
+- cosmopolitan.com: disinformation, clickbait, racism, sexism
+- ap.org: disinformation, clickbait, racism, sexism
+- avclub.com: disinformation, clickbait
