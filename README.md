@@ -117,3 +117,4 @@ No particular order.
 - cnbc.com: disinformation, clickbait, anti-science
 - dailycaller.com: coup d'etat apologia
 - telegraph.co.uk: coup d'etat apologia
+- destructoid.com: disinformation, clickbait, sexism, anti-consumer
