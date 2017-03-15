@@ -109,3 +109,11 @@ No particular order.
 - ap.org: disinformation, clickbait, racism, sexism
 - avclub.com: disinformation, clickbait
 - ft.com: disinformation, clickbait
+- nationalreview.com: disinformation
+- standard.co.uk: disinformation, clickbait, anti-consumer
+- msmagazine.com: disinformation, clickbait, sexism
+- cbc.ca: disinformation, clickbait, sexism
+- rt.com: disinformation, clickbait, anti-science
+- cnbc.com: disinformation, clickbait, anti-science
+- dailycaller.com: coup d'etat apologia
+- telegraph.co.uk: coup d'etat apologia
