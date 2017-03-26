@@ -1,4 +1,4 @@
-#Webshites; sites that are shite
+# Webshites; sites that are shite
 
 In the year of our lord, the $CURRENT_YEAR, websites rely on ad revenue to survive. This results in several anti-patterns, such as:
 
