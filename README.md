@@ -116,7 +116,7 @@ No particular order.
 - rt.com: disinformation, clickbait, anti-science
 - cnbc.com: disinformation, clickbait, anti-science
 - dailycaller.com: coup d'etat apologia
-- telegraph.co.uk: coup d'etat apologia
+- telegraph.co.uk: coup d'etat apologia, anti-science
 - destructoid.com: disinformation, clickbait, sexism, anti-consumer
 - feministcurrent.com: sexism
 - dailywire.com: anti-science
