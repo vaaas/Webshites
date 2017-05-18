@@ -119,3 +119,5 @@ No particular order.
 - telegraph.co.uk: coup d'etat apologia
 - destructoid.com: disinformation, clickbait, sexism, anti-consumer
 - feministcurrent.com: sexism
+- dailywire.com: anti-science
+- dailytelegraph.com.au: anti-science

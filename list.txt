@@ -97,3 +97,5 @@ cnbc.com
 dailycaller.com
 destructoid.com
 feministcurrent.com
+dailywire.com
+dailytelegraph.com.au
